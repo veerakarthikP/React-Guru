@@ -1,0 +1,31 @@
+{
+  "name": "namaste-guru",
+  "version": "1.0.0",
+  "description": "react guru",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veerakarthikP/React-Guru.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Veerakarthik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veerakarthikP/React-Guru/issues"
+  },
+  "homepage": "https://github.com/veerakarthikP/React-Guru#readme",
+  "devDependencies": {
+    "parcel": "^2.16.0"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "browsersList": [
+    "last 2 versions"
+  ]
+}
